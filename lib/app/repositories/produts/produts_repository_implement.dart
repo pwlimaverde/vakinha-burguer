@@ -1,8 +1,8 @@
 import 'dart:developer';
 
 import 'package:dio/dio.dart';
-import 'package:dw9_delivery_app/app/models/product_model.dart';
-import 'package:dw9_delivery_app/app/repositories/produts/produts_repository.dart';
+import '../../models/product_model.dart';
+import 'produts_repository.dart';
 
 import '../../core/execeptions/repository_exeception.dart';
 import '../../core/rest_client/custom_dio.dart';

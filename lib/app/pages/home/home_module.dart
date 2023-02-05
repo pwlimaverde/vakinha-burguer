@@ -1,5 +1,5 @@
-import 'package:dw9_delivery_app/app/repositories/produts/produts_repository.dart';
-import 'package:dw9_delivery_app/app/repositories/produts/produts_repository_implement.dart';
+import '../../repositories/produts/produts_repository.dart';
+import '../../repositories/produts/produts_repository_implement.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
